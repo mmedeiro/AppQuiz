@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1F761E35-6A91-4894-ADEE-427525E6A990</string>
+	<key>IDESourceControlProjectName</key>
+	<string>exBronze</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5C8592856D3B172CD7EE607BA6E843FD4B511CD8</key>
+		<string>https://github.com/mmedeiro/AppQuiz.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>exBronze.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5C8592856D3B172CD7EE607BA6E843FD4B511CD8</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/mmedeiro/AppQuiz.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5C8592856D3B172CD7EE607BA6E843FD4B511CD8</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5C8592856D3B172CD7EE607BA6E843FD4B511CD8</string>
+			<key>IDESourceControlWCCName</key>
+			<string>AppQuiz</string>
+		</dict>
+	</array>
+</dict>
+</plist>
